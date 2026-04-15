@@ -1,0 +1,21 @@
+Payer,Amount,Participants,Date,Category
+Arun ,1200,"Arun,Bala,Divya,Karthik,Priya",01-04-2026,food
+Bala,300,"Arun,Bala,Divya,Karthik,Priya",02-04-2026,travel
+Divya,0,"Arun,Bala,Divya,Karthik,Priya",03-04-2026,food
+Karthik,800,"Arun,Bala,Karthik,Priya",04-04-2026,shopping
+Priya ,200,"Arun,Priya",05-04-2026,food
+Arun ,1500,"Arun,Bala,Divya,Karthik,Priya",06-04-2026,rent
+Bala,0,"Arun,Bala,Divya",07-04-2026,food
+Divya,700,"Divya,Karthik,Priya",08-04-2026,travel
+Karthik,400,"Arun,Karthik",09-04-2026,shopping
+Priya ,0,"Arun,Bala,Priya",10-04-2026,food
+Arun ,900,"Arun,Bala,Divya",11-04-2026,travel
+Bala,600,"Arun,Bala,Karthik,Priya",12-04-2026,food
+Divya,300,"Arun,Divya",13-04-2026,shopping
+Karthik,0,"Arun,Bala,Divya,Karthik,Priya",14-04-2026,travel
+Priya ,500,"Divya,Karthik,Priya",15-04-2026,food
+Arun ,1000,"Arun,Bala,Divya,Karthik",16-04-2026,shopping
+Bala,200,"Arun,Bala,Divya,Karthik,Priya",17-04-2026,food
+Divya,0,"Arun,Bala",18-04-2026,travel
+Karthik,750,"Arun,Bala,Karthik",19-04-2026,food
+Priya ,350,"Arun,Bala,Divya,Priya",20-04-2026,shopping
