@@ -56,36 +56,36 @@ Each transaction includes:
 
 ##  NUMPY ANALYSIS OUTPUT
 
-![Output 1](screenshots/output1.png)
+![Output 1](outputScreenshot/output1.png)
 
 ---
 
 ##  FINAL SETTLEMENT & BALANCES
 
-![Output 2](screenshots/output2.png)
+![Output 2](outputScreenshot/output2.png)
 
 ---
 
 ##  DATA INSIGHTS
 
-![Output 3](screenshots/output3.png)
+![Output 3](outputScreenshot/output3.png)
 
 ---
 
 ##  VISUALIZATIONS
 
 ### 🔹 Total Spending per User
-![Bar Chart](screenshots/bar_chart.png)
+![Bar Chart](outputScreenshot/bar_chart.png)
 
 ---
 
 ### 🔹 Spending Over Time
-![Line Chart](screenshots/line_chart.png)
+![Line Chart](outputScreenshot/line_chart.png)
 
 ---
 
 ### 🔹 Category Distribution
-![Pie Chart](screenshots/pie_chart.png)
+![Pie Chart](outputScreenshot/pie_chart.png)
 
 ---
 
